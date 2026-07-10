@@ -1,6 +1,23 @@
 # codsoft_tasks
 Projects Included
-1. To-Do List Application
+
+1. Simple Calculator
+A basic calculator that performs:
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+Run
+
+calculator.py
+
+
+2. To-Do List Application
 A menu-driven application that allows users to:
 
 Add tasks
@@ -16,22 +33,6 @@ Delete tasks
 Run
 
 todo_list.py
-
-
-2. Simple Calculator
-A basic calculator that performs:
-
-Addition
-
-Subtraction
-
-Multiplication
-
-Division
-
-Run
-
-calculator.py
 
 
 3. Contact Book Management System
@@ -64,4 +65,46 @@ Loops
 
 User Input Handling
 
-These projects were developed to strengthen Python programming skills and fulfill the requirements of the CodSoft Python Programming Internship.
+## Requirements
+
+* Python 3.x installed on your system
+* Visual Studio Code (recommended) or any Python IDE
+* No external libraries are required. All programs use Python's built-in features.
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open the terminal.
+4. Run any project using the following command:
+
+```
+python calculator.py
+
+```
+
+or
+
+```
+python todo_list.py
+```
+
+or
+
+```
+python contact_book.py
+```
+
+5. Follow the on-screen menu and enter your choices to use the application.
+
+## Project Files
+
+* `calculator.py` – Performs basic arithmetic operations.
+* `todo_list.py` – Manages daily tasks (Add, View, Update, Complete, Delete).
+* `contact_book.py` – Stores and manages contact information.
+
+## Author
+
+**Akshat Saxena**
+CodSoft Python Programming Internship
+
