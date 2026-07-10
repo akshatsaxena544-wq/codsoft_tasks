@@ -14,6 +14,7 @@ Update tasks
 Delete tasks
 
 Run
+
 todo_list.py
 
 2. Simple Calculator
@@ -28,6 +29,7 @@ Multiplication
 Division
 
 Run
+
 calculator.py
 
 3. Contact Book Management System
@@ -44,6 +46,7 @@ Update contact details
 Delete contacts
 
 Run
+
 contact_book.py
 
 Technologies Used
