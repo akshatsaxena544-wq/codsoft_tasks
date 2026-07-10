@@ -13,9 +13,9 @@ Multiplication
 Division
 
 Run
-
+```
 calculator.py
-
+```
 
 2. To-Do List Application
 A menu-driven application that allows users to:
@@ -31,9 +31,9 @@ Update tasks
 Delete tasks
 
 Run
-
+```
 todo_list.py
-
+```
 
 3. Contact Book Management System
 A contact management application that allows users to:
@@ -49,8 +49,10 @@ Update contact details
 Delete contacts
 
 Run
+```
+contact_book.py'
+```
 
-contact_book.py
 
 Technologies Used
 Python 3
