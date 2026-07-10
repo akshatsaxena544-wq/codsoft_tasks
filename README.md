@@ -17,6 +17,7 @@ Run
 
 todo_list.py
 
+
 2. Simple Calculator
 A basic calculator that performs:
 
@@ -31,6 +32,7 @@ Division
 Run
 
 calculator.py
+
 
 3. Contact Book Management System
 A contact management application that allows users to:
